@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"all"
+    },
+    {
+        "id":2,
+        "name":"chair"
+    },
+    {
+        "id":3,
+        "name":"couche"
+    },
+    {
+        "id":4,
+        "name":"wardrobe"
+    },
+    {
+        "id":5,
+        "name":"table"
+    },
+    {
+        "id":6,
+        "name":"shelve"
+    },
+    {
+        "id":7,
+        "name":"mirror"
+    }
+]

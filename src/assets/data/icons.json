@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Unique-minimalistic",
+        "fa":"chair"
+    },
+    {
+        "id":2,
+        "name":"Small bussines shop!",
+        "fa":"shop"
+    },
+    {
+        "id":3,
+        "name":"Comfortable seating",
+        "fa":"couch"
+    },
+    {
+        "id":4,
+        "name":"Best prices!",
+        "fa":"tag"
+    }
+]

@@ -1,0 +1,40 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="Marija Vučićević">
+    <link rel="icon" href="../../assets/images/favicon.png">
+    <title>{{title}}</title>
+    <base routerLink="/">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/07d868ae10.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha384-xBuQ/xzmlsLoJpyjoggmTEz8OWUFM0/RC5BsqQBDX2v5cMvDHcMakNTNrHIW2I5f" crossorigin="anonymous"></script>
+</head>
+<nav class="navbar navbar-default" id="fixed">
+    <div class="container">
+            <div class="navbar-header page-scroll" id="pScroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="MB">
+                <a class="navbar-brand page-scroll" routerLink="/"><h1><mark>FURNITURE.</mark>minimalistic</h1></a>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <ng-container *ngFor="let n of nav">       
+                    <li>
+                        <a routerLink="{{n.href}}" class="page-scroll" [routerLinkActive]="'active'" ariaCurrentWhenActive="page">{{n.name}}</a>
+                    </li>
+                </ng-container>
+            </ul>
+        </div>
+    </div>
+</nav>

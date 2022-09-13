@@ -1,0 +1,29 @@
+<section id="portfolio">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center" id="fixedMargin">
+                <div class="section-title">
+                    <h2>-Welcome to our online gallery-</h2>
+                    <p>This is a safe place for minimalistic(and other) people to come and walk around via internet through our gallery.
+                        We have everything and nothing in the same time-minimalistic right?</p>
+                </div>
+            </div>
+        </div>
+        <ng-container id='items' *ngFor="let mp of mainPictures">
+            <!-- start portfolio item-->
+            <div class="col-md-6 col-0-gutter" >
+                <div class="ot-portfolio-item">
+                    <figure class="effect-bubba">
+                        <img src="../../assets/images/main/{{mp.src}}" alt="{{mp.name}}" class="img-responsive" />
+                        <figcaption>
+                            <h2>{{mp.name}}</h2>
+                            <p>{{mp.description}}</p>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        </ng-container>
+        <!-- end portfolio item -->
+    </div>
+    <!-- container -->
+</section>

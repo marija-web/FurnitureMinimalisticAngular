@@ -1,0 +1,225 @@
+[
+    {
+        "id":1,
+        "name":"Grey Velvet",
+        "src":"chair1.jpg",
+        "price":250,
+        "idCategory":2,
+        "description":"This wingback chair leans into a glam look with its rich velvet upholstery and sleek gold legs. Its frame is made from solid and engineered wood, and it's built on flared legs for a mid-century modern design in your living room or den."
+    },
+    {
+        "id":2,
+        "name":"Dark Black",
+        "src":"wardrobe6.jpg",
+        "price":450,
+        "idCategory":4,
+        "description":"This armoire has high gloss fronts with a matte body. Manufactured in and imported from the European Union. Modern and unique contemporary design. Perfect for those in need of living room storage space. Flat packed and ready to ship"
+    },
+    {
+        "id":3,
+        "name":"Simple Wood Minimalistic",
+        "src":"chair5.jpg",
+        "price":320,
+        "idCategory":2,
+        "description":"Add elegance to your fine dining establishment with this classically styled chiavari chair. Chiavari chairs demonstrate warmth and can be used as is around banquet tables or in rows at outdoor wedding ceremonies."
+    },
+    {
+        "id":4,
+        "name":"Mustard The Finest",
+        "src":"couch3.jpg",
+        "price":250,
+        "idCategory":3,
+        "description":"Form meets function with this vintage-inspired loveseat. Made in the USA, it features a solid oak frame with four dowel legs that add a modern vibe to your space. Foam filling gives you extra support whenever you need some time to relax."
+    },
+    {
+        "id":5,
+        "name":"Simple Defined ",
+        "src":"mirror1.jpg",
+        "price":200,
+        "idCategory":7,
+        "description":"This freestanding full-length mirror is a great way to make your bedroom or walk-in closet feel a little fancy. The perfect pick for lending a glint of French country glamour to your decor, it showcases a wooden frame in a silver finish hue."
+    },
+    {
+        "id":6,
+        "name":"White Wood",
+        "src":"shelves2.jpg",
+        "price":180,
+        "idCategory":6,
+        "description":"Find yourself questioning your perception of modern functionality with this Modern Accent Shelf, crafted to perfection with the modern home in mind. Featuring not 1, not 2, but 3 fully functional split shelves to ensure storage in the most decadent fashion."
+    },
+    {
+        "id":7,
+        "name":"Grey Minimalistic",
+        "src":"table2.jpg",
+        "price":400,
+        "idCategory":5,
+        "description":"Minima dignissimos impedit omnis doloremque perferendis. Aliquam occaecati magnam est repellat quibusdam nesciunt nostrum.With its practical design and easy-going style, this product offers an ideal workspace solution for home offices."
+    },
+    {
+        "id":8,
+        "name":"Simple Wood Giant",
+        "src":"wardrobe3.jpg",
+        "price":510,
+        "idCategory":4,
+        "description":"Its measurements are perfect for the new concept of homes, which feature increasingly smaller spaces for bedrooms. Its compact shelves, drawers, and aluminum rods allow you to neatly fold or hang items to keep things organized, and out of sight."
+    },
+    {
+        "id":9,
+        "name":"Small, but Unique Wood",
+        "src":"chair2.jpg",
+        "price":250,
+        "idCategory":2,
+        "description":"The Hillsdale Furniture Canal Street Vanity Stool blends art deco design with uptown style. Features a classic geometric oval-designed chairback. Finished in your choice of Golden Bronze, Pewter, or White. Some assembly is required."
+    },
+    {
+        "id":10,
+        "name":"Big Dark Yellow",
+        "src":"chair6.jpg",
+        "price":169,
+        "idCategory":2,
+        "description":"Adorn your living room or office in mid-century modern style with this 2-piece set of armchairs. Crafted from solid and engineered wood with sinuous spring seats, each chair features splayed, gold-colored legs for a retro feel."
+    },
+    {
+        "id":11,
+        "name":"Defined White",
+        "src":"couch4.jpg",
+        "price":450,
+        "idCategory":3,
+        "description":"Indulge your mid-century modern nostalgia with a contemporary twist loveseat. Shown in an attractive upholstery in a timeless texture. Contemporary tapered peg legs and a linear profile lend themselves to serene comfort."
+    },
+    {
+        "id":12,
+        "name":"Smooth Wood",
+        "src":"mirror2.jpg",
+        "price":220,
+        "idCategory":7,
+        "description":"Perfect for dorms, first apartments, and bedrooms short on space, this over-the-door jewelry armoire makes a great gift or addition to your space. Crafted from manufactured wood and a glass mirror."
+    },
+    {
+        "id":13,
+        "name":"Big Wood",
+        "src":"shelves3.jpg",
+        "price":330,
+        "idCategory":6,
+        "description":"Show off framed family photos, plants, movies, and more with this set of two floating box-shaped wall shelves, the perfect pick for smaller rooms that don't have any floor space to spare."
+    },
+    {
+        "id":14,
+        "name":"White Finest Minimlastic",
+        "src":"table3.jpg",
+        "price":240,
+        "idCategory":5,
+        "description":"A symbol for family togetherness, home-cooked meals, and conversation, dining tables are a must-have for every home. And, with so many styles out there, you’re bound to find the piece that reflects your own unique personality."
+    },
+    {
+        "id":15,
+        "name":"Unique - Minimlastic",
+        "src":"wardrobe4.jpg",
+        "price":420,
+        "idCategory":4,
+        "description":"Aria modern high gloss wardrobe armoire with all mirror fronts. Glass fronts with the matte body. Manufactured in and imported from the European Union."
+    },
+    {
+        "id":16,
+        "name":"Dark Wood",
+        "src":"chair3.jpg",
+        "price":300,
+        "idCategory":2,
+        "description":"Minimally designed, the Malcolm Solid Wood Dining Chair is casually styled to complement both traditional and contemporary decors. It features immaculate lines and detailed cuts that spruce up the look of these chairs. Simple yet striking."
+    },
+    {
+        "id":17,
+        "name":"Dark Black",
+        "src":"couch1.jpg",
+        "price":600,
+        "idCategory":3,
+        "description":"Add vintage and classic charm to your living room, study, or watch a movie with the Classic Sofa. With a sturdy wooden frame for durability, this upholstered sofa with curved sides features a padded backrest and seat that keep you comfortable as you sit back and relax."
+    },
+    {
+        "id":18,
+        "name":"Defined Mustard",
+        "src":"couch5.jpg",
+        "price":610,
+        "idCategory":3,
+        "description":"The soft foam padding and web suspension offer you the ultimate comfort and support whether you are enjoying your morning cup of coffee, entertaining your friends, or working from home. Hand-stitched corded edges and button tufting offer the couch its finishing touches."
+    },
+    {
+        "id":19,
+        "name":"Round Wood",
+        "src":"mirror3.jpg",
+        "price":200,
+        "idCategory":7,
+        "description":"This round mirror gives you a sleek accent piece for your walls while showcasing a mix of modern and rustic styles. It has a classic wood frame with a medium chestnut finish for an eye-catching look. With a diameter of 28, this wall mirror equally stands out in your entryway."
+    },
+    {
+        "id":20,
+        "name":"Simple Wood - Ultra minimalistic",
+        "src":"shelves4.jpg",
+        "price":300,
+        "idCategory":6,
+        "description":"This 4-piece accent shelf allows you to display picture frames, books, and other decor in any room of your home, wherever you have space on your walls. Each piece features an open iron frame in a black hue that surrounds distressed, engineered wood shelves for an industrial look."
+    },
+    {
+        "id":21,
+        "name":"Dark Wood Giant",
+        "src":"wardrobe1.jpg",
+        "price":320,
+        "idCategory":4,
+        "description":"House your wardrobe in handsome style with this pine wood armoire, showcasing a Shaker-style design and an adjustable shelf. Its frame is made from solid pine wood in a crisp, versatile finish that goes with everything! It´s an ideal fit for your garage."
+    },
+    {
+        "id":22,
+        "name":"Grey Simple and Huge",
+        "src":"wardrobe5.jpg",
+        "price":250,
+        "idCategory":4,
+        "description":"This beautifully spacious armoire features 2 doors and 2 spacious drawers. A covered hanging rod will help you store anything you will need. It´s an ideal fit for your bedroom, garage, living room, or kitchen. It is the perfect solution for extra storage in limited space rooms."
+    },
+    {
+        "id":23,
+        "name":"Black Wire Piece",
+        "src":"chair4.jpg",
+        "price":140,
+        "idCategory":2,
+        "description":"The CosmoLiving Astrid Wire Dining Chair is giving us all the coolest ~vibes~. It features a geometric pattern on the backrest to elevate this design and make this dining chair anything but basic. Strong and sturdy, the metal electroplated frame will last through nights."
+    },
+    {
+        "id":24 ,
+        "name":"White Puff Piece",
+        "src":"couch2.jpg",
+        "price":700,
+        "idCategory":3,
+        "description":"This convertible sofa is powerful and has three adjustment angles. It can be switched between sofa and bed at any time. It is suitable for many occasions such as bedroom, living room, study, and office, and does not take up too much space."
+    },
+    {
+        "id":25 ,
+        "name":"Washed White Fluffy",
+        "src":"couch6.jpg",
+        "price":570,
+        "idCategory":3,
+        "description":"From entertaining guests to helping us host the perfect movie night, sofas are a staple in our living room decor. Take this one for example: crafted from solid and manufactured wood, it’s perched atop tapered legs and showcases a clean-lined construction."
+    },
+    {
+        "id":26 ,
+        "name":"Small Cube - Minimalistic",
+        "src":"shelves1.jpg",
+        "price":250,
+        "idCategory":6,
+        "description":"Whether you want to organize your favorite leather-bound tomes or give your little one a place to create a mini library, this lovely bookcase is the perfect pick. A simple, clean-lined design, it is crafted from manufactured wood."
+    },
+    {
+        "id":27 ,
+        "name":"Black Wire Giant",
+        "src":"table1.jpg",
+        "price":290,
+        "idCategory":5,
+        "description":"Second, only to your sofa, coffee tables are living room icons that lend you a handy surface that also help tie together your ensemble's style. This table, for example, is a great option for space-conscious ensembles thanks to its nesting design."
+    },{
+        "id":28 ,
+        "name":"Simple Dark Washed Wood",
+        "src":"wardrobe2.jpg",
+        "price":450,
+        "idCategory":4,
+        "description":"In need of more storage? This modern armoire gives you extra space for all your favorite things. Its frame is made from solid pine wood in a crisp, versatile finish that goes with everything! A mirrored door gives you a convenient spot to check out your look."
+    }
+]

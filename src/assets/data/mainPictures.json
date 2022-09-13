@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "src":"couch.jpg",
+        "name":"Couch",
+        "description":"Want one? Come check it now"
+    },
+    {
+        "id" : 2,
+        "src":"stool.jpg",
+        "name":"Stool",
+        "description":"I know you need it, look now"
+    },
+    {
+        "id" : 3,
+        "src":"mirror.jpg",
+        "name":"Mirror",
+        "description":"Take a look at our mirror gallery"
+    },
+    {
+        "id" : 4,
+        "src":"table.jpg",
+        "name":"Table",
+        "description":"Check it now-we know you need this"
+    },{
+        "id" : 5,
+        "src":"wardrobe.jpg",
+        "name":"Wardrobe",
+        "description":"Your clothes is in need for a new home? Check it now"
+    },
+    {
+        "id" : 6,
+        "src":"shelf.jpg",
+        "name":"Shelf",
+        "description":"You need a storage space? Check our new collection now"
+    }
+]
